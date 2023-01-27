@@ -65,7 +65,6 @@ function NewProduct() {
       }
     );
   }
-
   function showWidget() {
     const widget = window.cloudinary.createUploadWidget(
       {
